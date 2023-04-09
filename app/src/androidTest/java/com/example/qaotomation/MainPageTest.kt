@@ -12,7 +12,7 @@ import org.junit.Test
 
 class MainPageTest {
 
-    //this variable will global for all fun that we will create
+    //Launch the main activity
     @get:Rule
     var activityScenarioRule = ActivityScenarioRule(MainActivity::class.java)
 

@@ -11,6 +11,7 @@ import org.junit.Test
 
 class SignUpPageTest {
 
+    //Launch the main activity
     @get:Rule
     var activityScenarioRule = ActivityScenarioRule(MainActivity::class.java)
 

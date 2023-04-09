@@ -18,7 +18,7 @@ import java.util.logging.Handler
 
 class LoginPageTest {
 
-    //this variable will global for all fun that we will create
+    //Launch the main activity
     @get:Rule
     var activityScenarioRule = ActivityScenarioRule(MainActivity::class.java)
 
