@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trendyol UI Test Case</string>
+    <string name="login">Giriş Yap</string>
+    <string name="signup">Kayıt Ol</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Şifre</string>
+    <string name="enter_your_email">Mailinizi yazın</string>
+    <string name="enter_your_password">Şifrenizi yazın</string>
+    <string name="email">Email:</string>
+    <string name="password">Şifre:</string>
+    <string name="retype_password">Şifrenizi tekrar yazın:</string>
+    <string name="select_date">Tarih seçiniz</string>
+    <string name="logout">Çıkış Yap</string>
+</resources>
